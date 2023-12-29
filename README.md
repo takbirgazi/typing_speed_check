@@ -1,3 +1,3 @@
 ## Check yor Typing Speed
 
-**Live Preview** (click here...)[]
+**Live Preview** [Click Here...](https://takbirgazi.github.io/typing_speed_check/)
